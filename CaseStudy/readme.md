@@ -34,4 +34,17 @@ iii)Injector.
 
 iv)Area and Space.
 
+# Applications:
+i)Operating steam engines.
+
+ii)Operating steam turbines.
+
+iii)Operating reciprocating pumps.
+
+iv)Industrial process work in chemical engineering.
+
+v)For producing hot water required to be supplied to room in very cold areas.
+
+vi)In thermal power stations.
+
 

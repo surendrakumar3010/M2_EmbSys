@@ -68,6 +68,15 @@ The working principle of a water level indicator is actually quite simple. Water
 |LLR2|CLIMATE|
 |LLR3|SUN LIGHT|
 
+# Applications:
+i)It can be used in large scale to control the water level in dams to prevent flood and other such problems.
+
+ii) It can be used to control water wastage in the municipality corporation tanks which supply water in a particular
+area.
+
+iii) It can widely be used in industrial purposes as well.
+
+
 
 
 

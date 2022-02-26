@@ -37,6 +37,42 @@ vi)Automatically adjusts water levels.
 
 vii)Save money by using less electricity and water.
 
+# Components:
+
+1.aurdino board uno. 
+
+2.ultra sonic sensor.
+
+3.resistor.
+
+4.jumper wires.
+
+5.led.
+
+6.Water tank.
+
+7.bread board.
+
+# Description:
+
+# Arduino board UNO:
+Arduino UNO is a low-cost, flexible, and easy-to-use programmable open-source microcontroller board that can be integrated into a variety of electronic projects. This board can be interfaced with other Arduino boards, Arduino shields, Raspberry Pi boards and can control relays, LEDs, servos, and motors as an output.
+
+Arduino UNO features AVR microcontroller Atmega328, 6 analogue input pins, and 14 digital I/O pins out of which 6 are used as PWM output.
+
+# Ultra Sonic sensor:
+An ultrasonic sensor is an electronic device that measures the distance of a target object by emitting ultrasonic sound waves, and converts the reflected sound into an electrical signal. Ultrasonic waves travel faster than the speed of audible sound (i.e. the sound that humans can hear). Ultrasonic sensors have two main components: the transmitter (which emits the sound using piezoelectric crystals) and the receiver (which encounters the sound after it has travelled to and from the target).
+
+# Resistor:
+A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element. In electronic circuits, resistors are used to reduce current flow, adjust signal levels, to divide voltages, bias active elements, and terminate transmission lines, among other uses.
+
+# LED:
+Light-emitting diode (LED) is a widely used standard source of light in electrical equipment. It has a wide range of applications ranging from your mobile phone to large advertising billboards. They mostly find applications in devices that show the time and display different types of data.
+
+# Bread board:
+A breadboard, or protoboard, is a construction base for prototyping of electronics. Originally the word referred to a literal bread board, a polished piece of wood used when slicing bread.In the 1970s the solderless breadboard ( plugboard, a terminal array board) became available and nowadays the term "breadboard" is commonly used to refer to these.
+
+
 # 4W's And 1H
 # Who
 In our day to day activities, it is common to all to have shortage of water or overflow of water in our storage tanks. 

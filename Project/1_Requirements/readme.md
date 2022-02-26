@@ -1,5 +1,8 @@
 # Water Level Indicator
 ------------------------------------------------------------------------
+# Abstract:
+water tank overflow is a common problem which leads to the wastageof water. though there are many solutions to it like ball valves which automatically stopthe water flow once the tank gets full. but being electronics enthusiastic wouldn't you likean electronic solution for it? so here is a simple and handy diy that will guide you to makea circuit which will detect the water level and will raise an alarm upon getting the watertank full or a preset level.water level indicator is a modern way of measuring the water level using latesttechnologies like sensors ,arduino. the main aim of the project is to calculate the water levelat any instant of time and to buzz the buzzer if the tank is filled completely.i would like to usearduino and ultrasonic sensor to make it possible. this may be useful to conserve water andhelps us not to waste water.
+
 # Introduction:
 
 In relation with the current framework with so much work and too less time to spare, it is very difficult to keep in

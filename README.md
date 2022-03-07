@@ -6,3 +6,5 @@
 [![Unit Testing](https://github.com/surendrakumar3010/M2_EmbSys/actions/workflows/Unit.yml/badge.svg)](https://github.com/surendrakumar3010/M2_EmbSys/actions/workflows/Unit.yml)
 
 [![Build-Linux](https://github.com/surendrakumar3010/M2_EmbSys/actions/workflows/Build.yml/badge.svg)](https://github.com/surendrakumar3010/M2_EmbSys/actions/workflows/Build.yml)
+
+[![Cpp-Check](https://github.com/surendrakumar3010/M2_EmbSys/actions/workflows/Cpp.yml/badge.svg)](https://github.com/surendrakumar3010/M2_EmbSys/actions/workflows/Cpp.yml)

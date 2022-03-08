@@ -9,5 +9,5 @@
 |5_Report|Generated Report|
 |6_ImagesandVideos|All the images and program execution video|
 |7_Others|Nill|
-|8_Refferences|nill|
+|8_References|nill|
 
